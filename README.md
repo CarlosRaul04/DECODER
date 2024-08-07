@@ -1,0 +1,2 @@
+# DECODER
+Utilizaré un decoder
